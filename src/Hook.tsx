@@ -4,7 +4,7 @@ import { styled } from "@mui/material/styles";
 import { Box, Typography, SvgIcon } from "@mui/material";
 
 import Image from "next/image";
-import bg from "../public/backgrounds/hook.jpg";
+import bg from "../public/backgrounds/Rooftop Bar2.jpg";
 
 import Header from "../src/Header";
 

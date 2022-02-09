@@ -4,7 +4,7 @@ import { styled } from "@mui/material/styles";
 import { Box, Container, Typography } from "@mui/material";
 
 import Image from "next/image";
-import bg from "../public/backgrounds/roadmap.png";
+import bg from "../public/backgrounds/Roadmap2.jpg";
 
 import RoadmapItemBackground from "./vector-images/RoadmapItemBackground";
 
