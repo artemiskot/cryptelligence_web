@@ -1,0 +1,34 @@
+{
+  "name": "nextjs-with-styled-components-typescript",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.2.1",
+    "@mui/lab": "^5.0.0-alpha.58",
+    "@mui/material": "latest",
+    "@types/node": "^17.0.16",
+    "next": "latest",
+    "next-transpile-modules": "latest",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.2",
+    "react-dom": "latest",
+    "react-is": "latest",
+    "swiper": "^7.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/styled-components": "latest",
+    "babel-plugin-styled-components": "latest",
+    "typescript": "latest"
+  }
+}

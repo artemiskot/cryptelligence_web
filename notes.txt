@@ -1,0 +1,10 @@
+To-Do:
+
+Roadmap Stages Under Items
+Header Nav Menu Spacing
+Absolute Positioning w/ svg on About Section
+Roadmap Stages on Left
+Replace Avatars with Carousel
+Swap Roadmap Background with SVG
+Roadmap Stage Selection
+Nav Manu & Discord Light Up on Hover
