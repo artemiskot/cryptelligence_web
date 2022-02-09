@@ -16,6 +16,7 @@ const index = styled(({...props}) => {
   return (
     <Box {...props}>
       <Hook />
+      <About id="about" />
       <Avatars id="avatars" />
       <Traits id="traits"/>
       <Team id="team"/>
