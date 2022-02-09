@@ -147,7 +147,7 @@ const Carousel = styled((props) => {
           <Avatar src="/slider-images/Metasurfer1.png" name="Metasurfer" />
         </SwiperSlide>
         <SwiperSlide>
-          <Avatar src="/slider-images/Metasurfer2.png" name="Metasurfer" />
+          <Avatar src="/slider-images/MetaSurfer2.png" name="Metasurfer" />
         </SwiperSlide>
         <SwiperSlide>
           <Avatar src="/slider-images/Cryptooriginal.png" name="Cryptooriginal" />
