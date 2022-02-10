@@ -16,7 +16,7 @@ const Trait = styled(({ src, ...props }) => {
         src={src}
         layout="fill"
         objectFit="cover"
-        objectPosition="center"
+        objectPosition="relative"
         priority
       />
     </Box>

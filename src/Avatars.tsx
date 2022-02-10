@@ -20,7 +20,7 @@ const Avatar = styled((props) => {
   return (
     <Box {...props} className={`${props.className} avatar`}>
       <Box sx={{ mb: 6 }} className="image-wrapper">
-        <Image src={props.src} layout="fill" objectFit="contain" />
+        <Image src={props.src} layout="fill" objectFit="contain" objectPosition="relative"/>
       </Box>
       <Typography variant="h5">{props.name}</Typography>
     </Box>

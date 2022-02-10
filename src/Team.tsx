@@ -18,7 +18,7 @@ const Avatar = styled(({ src, ...props }) => {
           src={src}
           layout="fill"
           objectFit="cover"
-          objectPosition="center"
+          objectPosition="relative"
         />
       </Box>
     );
